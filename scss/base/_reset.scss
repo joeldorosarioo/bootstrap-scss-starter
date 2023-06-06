@@ -1,0 +1,64 @@
+html {
+	scroll-behavior: smooth;
+
+	-webkit-text-size-adjust: 100%;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	display: flex;
+	flex-direction: column;
+
+	min-height: 100vh;
+}
+
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+
+img, svg {
+	max-width: 100%;
+	font-weight: normal;
+}
+
+hr {
+	margin-top: 42px;
+	margin-bottom: 42px;
+
+	border: 2px solid #ECECEC;
+}
+
+a {
+	color: #0086B2;
+
+	&:active, &:hover, &:focus {
+		color: #004D66;
+	}
+}
+
+.top-content-spacer {
+	margin-top: 42px;
+}
+
+.bottom-content-spacer {
+	margin-bottom: 42px;
+}
+
+.stop-the-slide {
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+.container {
+	@media (min-width: 1200px) {
+		max-width: 1240px;
+	}
+
+	@media (min-width: 1680px) {
+		max-width: 1620px;
+	}
+}

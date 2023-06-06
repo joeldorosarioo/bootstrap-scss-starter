@@ -1,0 +1,15 @@
+{
+	"name": "scss-boilerblate",
+	"version": "0.1.0",
+	"author": "Joel Oliveira",
+	"description": "A basic boilerplate using Bootstrap 5.3 with SCSS and JavaScript.",
+	"main": "index.js",
+	"private": true,
+	"repository": "https://github.com/joeldorosarioo/scss-boilerblate.git",
+	"license": "MIT",
+	"devDependencies": {
+		"@commitlint/cli": "^17.6.5",
+		"@commitlint/config-conventional": "^17.6.5",
+		"husky": "^8.0.3"
+	}
+}
