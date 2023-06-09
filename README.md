@@ -25,10 +25,6 @@ $ yarn install
 # Activate hooks
 
 $ yarn husky install
-
-# Add hook
-
-$ yarn husky add .husky/commit-msg 'yarn commitlint --edit $1'
 ```
 
 To transpile SCSS to CSS you must run the following command:
