@@ -1,11 +1,11 @@
 {
-	"name": "scss-boilerblate",
+	"name": "cse-boilerplate",
 	"version": "0.1.0",
 	"author": "Joel Oliveira",
 	"description": "A basic boilerplate using Bootstrap 5.3 with SCSS and JavaScript.",
 	"main": "index.js",
 	"private": true,
-	"repository": "https://github.com/joeldorosarioo/scss-boilerblate.git",
+	"repository": "https://github.com/joeldorosarioo/cse-boilerplate.git",
 	"license": "MIT",
 	"devDependencies": {
 		"@commitlint/cli": "^17.6.5",
