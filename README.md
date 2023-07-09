@@ -14,7 +14,7 @@ From your command line:
 ```bash
 # Clone this repository
 
-$ git clone https://github.com/joeldorosarioo/scss-boilerblate.git
+$ git clone https://github.com/joeldorosarioo/cse-boilerplate.git
 
 $ cd cse-boilerplate
 
