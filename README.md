@@ -14,9 +14,9 @@ From your command line:
 ```bash
 # Clone this repository
 
-$ git clone https://github.com/joeldorosarioo/cse-boilerplate.git
+$ git clone https://github.com/joeldorosarioo/bootstrap-scss-starter.git
 
-$ cd cse-boilerplate
+$ cd bootstrap-scss-starter
 
 # Install dependencies
 
